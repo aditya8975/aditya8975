@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya8975
 - 👀 I’m interested in software
-- 🌱 I’m currently learning computer science 
+- 🌱 I’m currently learning MCA 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me https://www.linkedin.com/in/aditya-katare-082a20214
 
