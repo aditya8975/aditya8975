@@ -1,4 +1,4 @@
-![Profile Views](https://github.com/ZAINKHAN25/Increase-Profile-Views/raw/main/profile-view.svg?sanitize=true)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aditya8975)
 <h1 align="center">Hi 👋, I'm Aditya Katare</h1>
 <h3 align="center"> My interests lie in solving Data Structures and Algorithms (DSA) problems, Web Development. I'm proficient in coding using Java and I have worked with frontend frameworks like Angular . I also have hands-on experience working with Node.js,React, Express, and MongoDB for backend development.</h3>
 
