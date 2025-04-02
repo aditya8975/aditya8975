@@ -14,7 +14,7 @@
 - 📫 How to reach me **adityakatare35@gmail.com**
 
 - 📄 Know about my experiences [https://adkatareport.onrender.com/](https://adkatareport.onrender.com/)
-
+    ![Profile Views](https://github.com/ZAINKHAN25/Increase-Profile-Views/raw/main/profile-view.svg?sanitize=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ak51558026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ak51558026" height="30" width="40" /></a>
