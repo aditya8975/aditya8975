@@ -1,6 +1,6 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aditya8975)
 <h1 align="center">Hi 👋, I'm Aditya Katare</h1>
-<h3 align="center"> My interests lie in solving Data Structures and Algorithms (DSA) problems, Web Development. I'm proficient in coding using Java and I have worked with frontend frameworks like Angular . I also have hands-on experience working with Node.js,React, Express, and MongoDB for backend development.</h3>
+<h3 align="center"> My interests lie in solving Data Structures and Algorithms (DSA) problems, Web Development. I'm proficient in coding using Java , PHP and I have worked with frontend frameworks like React . I also have hands-on experience working with Node.js, Express, and MongoDB , Mysql for backend development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya8975" alt="aditya8975" /></a> </p>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adkatareport.onrender.com/](https://adkatareport.onrender.com/)
 
-- 💬 Ask me about **React , React Native , Angular**
+- 💬 Ask me about **React , React Native , PHP , JS , Wordpress**
 
 - 📫 How to reach me **adityakatare35@gmail.com**
 
