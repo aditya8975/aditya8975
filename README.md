@@ -1,6 +1,6 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aditya8975)
 <h1 align="center">Hi 👋, I'm Aditya Katare</h1>
-<h3 align="center"> My interests lie in solving Data Structures and Algorithms (DSA) problems, Web Development. I'm proficient in coding using Java , PHP and I have worked with frontend frameworks like React . I also have hands-on experience working with Node.js, Express, and MongoDB , Mysql for backend development.</h3>
+<h3 align="center"> My interests lie in solving Data Structures and Algorithms (DSA) problems, Web Development, Backend Development, and Machine Learning. I'm proficient in coding using Java, Python, and PHP. I have worked with frontend frameworks like React and have hands-on experience building backend applications using Python, Node.js, Express.js, MongoDB, and MySQL. I also have experience developing machine learning models using Python and applying data analysis and predictive modeling techniques to solve real-world problems.</h3>
 
 
 
