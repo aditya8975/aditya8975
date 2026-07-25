@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adkatareport.onrender.com/](https://adkatareport.onrender.com/)
 
-- 💬 Ask me about **React , React Native , PHP , JS , Wordpress**
+- 💬 Ask me about **AI, AI Agents, React , React Native ,java , PHP , JS ,TS , Wordpress, New technology**
 
 - 📫 How to reach me **adityakatare35@gmail.com**
 
